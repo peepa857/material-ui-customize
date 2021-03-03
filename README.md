@@ -7,4 +7,4 @@ https://codesandbox.io/s/mutable-sea-1wfl2?file=/src/App.tsx
 
 ## chip with stepper
 https://codesandbox.io/s/relaxed-mendel-qxiu6?file=/src/App.tsx
-![image](https://user-images.githubusercontent.com/79430200/109657306-b2d5a480-7ba8-11eb-841b-46e6b6940edc.png)
+![image](https://user-images.githubusercontent.com/79430200/109731938-8a2cc980-7bff-11eb-9459-79292852c0ef.png)
