@@ -20,7 +20,7 @@ import { StepIconProps } from "@material-ui/core/StepIcon";
 
 const useStyles = makeStyles({
   table: {
-    minWidth: 650
+    minWidth: 600
   },
   hideLastBorder: {
     "&:last-child td, &:last-child th": {
@@ -33,7 +33,7 @@ const HtmlTooltip = withStyles((theme: Theme) => ({
   tooltip: {
     backgroundColor: "#f5f5f9",
     color: "rgba(0, 0, 0, 0.87)",
-    maxWidth: 400,
+    minWidth: 360,
     fontSize: theme.typography.pxToRem(14),
     border: "1px solid #dadde9"
   }
@@ -98,8 +98,8 @@ function QontoStepIcon(props: StepIconProps) {
       {completed ? (
         <Check className={classes.completed} />
       ) : (
-        <div className={classes.circle} />
-      )}
+          <div className={classes.circle} />
+        )}
     </div>
   );
 }
