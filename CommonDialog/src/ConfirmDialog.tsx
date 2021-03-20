@@ -52,6 +52,7 @@ const ConfirmDialog: FC<ConfirmDialogProps> = ({
         onClose={onCancel}
         PaperComponent={PaperComponent}
         aria-labelledby="draggable-dialog-title"
+        fullWidth
       >
         <DialogTitle
           style={{ cursor: "move" }}
