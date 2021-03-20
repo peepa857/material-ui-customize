@@ -11,3 +11,5 @@ https://codesandbox.io/s/relaxed-mendel-qxiu6?file=/src/App.tsx
 
 ## app common dialog
 https://codesandbox.io/s/fast-bash-ze8jr?file=/src/App.tsx
+![image](https://user-images.githubusercontent.com/79430200/111858166-166a1b00-897a-11eb-8b14-e7c8df7c9c6b.png)
+![image](https://user-images.githubusercontent.com/79430200/111858168-1e29bf80-897a-11eb-9f6f-e51f29783688.png)
