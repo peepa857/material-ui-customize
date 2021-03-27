@@ -18,5 +18,5 @@ https://codesandbox.io/s/fast-bash-ze8jr?file=/src/App.tsx
 
 ![image](https://user-images.githubusercontent.com/79430200/111858217-a8722380-897a-11eb-9ee9-af836f0ff21a.png)
 
-## app common dialog
+## speed dial with multi edit icons
 https://codesandbox.io/s/material-demo-forked-g6jt6?file=/demo.tsx:1803-1819
