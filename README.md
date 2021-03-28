@@ -20,3 +20,6 @@ https://codesandbox.io/s/fast-bash-ze8jr?file=/src/App.tsx
 
 ## speed dial with multi edit icons
 https://codesandbox.io/s/material-demo-forked-g6jt6?file=/demo.tsx:1803-1819
+
+## Autocomplete with help text icon
+https://codesandbox.io/s/playground-material-demo-forked-v16u1?file=/demo.tsx
