@@ -18,12 +18,12 @@ https://codesandbox.io/s/fast-bash-ze8jr?file=/src/App.tsx
 
 ![image](https://user-images.githubusercontent.com/79430200/111858217-a8722380-897a-11eb-9ee9-af836f0ff21a.png)
 
-## speed dial with multi edit icons
+## speed dial for multi edit icons in one page
 https://codesandbox.io/s/material-demo-forked-g6jt6?file=/demo.tsx:1803-1819
 
 ![image](https://user-images.githubusercontent.com/79430200/112812935-a1ed5580-90b8-11eb-8d97-3f1b44ed8513.png)
 
-## Autocomplete with help text icon
+## autocomplete with help text icon
 https://codesandbox.io/s/playground-material-demo-forked-v16u1?file=/demo.tsx
 
 ![image](https://user-images.githubusercontent.com/79430200/112813533-4079b680-90b9-11eb-98a8-c22179be5161.png)
