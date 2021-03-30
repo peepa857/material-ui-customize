@@ -28,7 +28,7 @@ https://codesandbox.io/s/playground-material-demo-forked-v16u1?file=/demo.tsx
 
 ![image](https://user-images.githubusercontent.com/79430200/112813533-4079b680-90b9-11eb-98a8-c22179be5161.png)
 
-## system release notifications
+## app verison up notifications
 https://codesandbox.io/s/material-demo-forked-dkc0q
 
 ![image](https://user-images.githubusercontent.com/79430200/113008815-57500400-91b2-11eb-8aa6-6df01c60105e.png)
