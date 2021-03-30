@@ -1,0 +1,27 @@
+{
+  "title": "Playground Material Demo",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "name": "playground-material-demo-forked",
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.0-alpha.28/docs/src/pages/components/autocomplete/Playground.tsx",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "next",
+    "@material-ui/icons": "4.11.2",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "version": "0.0.124"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Material demo",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/app-bar/MenuAppBar.tsx",
+  "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "@material-ui/icons": "latest",
+    "@types/lodash": "4.14.168",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "lodash": "4.17.21",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-draggable": "4.4.3",
+    "typescript": "latest"
+  },
+  "name": "material-demo-forked",
+  "version": "0.0.572"
+}
