@@ -38,4 +38,4 @@ https://codesandbox.io/s/material-demo-forked-dkc0q?file=/demo.tsx
 ## display text and URL
 https://codesandbox.io/s/material-demo-forked-l2vys?file=/demo.tsx
 
-![image](https://user-images.githubusercontent.com/79430200/114253004-2dcd7e80-99e3-11eb-9cae-8929039cc23c.png)
+![image](https://user-images.githubusercontent.com/79430200/114253116-afbda780-99e3-11eb-985f-2a5f9fff148f.png)
