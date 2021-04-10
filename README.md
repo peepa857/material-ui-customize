@@ -35,3 +35,7 @@ https://codesandbox.io/s/material-demo-forked-dkc0q?file=/demo.tsx
 
 ![image](https://user-images.githubusercontent.com/79430200/113008934-764e9600-91b2-11eb-8ba4-4384dda367b0.png)
 
+## display text and URL
+https://codesandbox.io/s/material-demo-forked-l2vys?file=/demo.tsx
+
+![image](https://user-images.githubusercontent.com/79430200/114252977-070f4800-99e3-11eb-8875-8c9237fc62d2.png)
