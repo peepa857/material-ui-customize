@@ -1,0 +1,19 @@
+{
+  "title": "Material demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/typography/TypographyTheme.tsx",
+  "dependencies": {
+    "typescript": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@material-ui/core": "latest"
+  }
+}
